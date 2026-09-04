@@ -517,6 +517,9 @@ add_filter(
             if ( 'Old post' === $text ) {
                 return '前の投稿';
             }
+			if ( 'New post' === $text ) {
+                return '次の投稿';
+            }
         }
         return $translation;
     },
