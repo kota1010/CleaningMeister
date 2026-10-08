@@ -159,7 +159,7 @@ add_action(
 				<source srcset="<?php echo plugin_dir_url(__FILE__); ?>img/mv_txt_pc2.webp" media="(min-width:1024px)" type="image/webp" />
 				<source srcset="<?php echo plugin_dir_url(__FILE__); ?>img/mv_txt_pc.jpg" media="(min-width:1024px)" />
 				<source srcset="<?php echo plugin_dir_url(__FILE__); ?>img/mv_txt_sp.webp" type="image/webp" />
-				<img src="<?php echo plugin_dir_url(__FILE__); ?>img/mv_txt_sp.jpg" alt="全国の商社ネットワークで効率的に在庫検索！ 業務用洗濯の中古機械 業界在庫数No.1 各メーカーの中古製品を豊富に取り扱っています" class="mv_img" />
+				<img src="<?php echo plugin_dir_url(__FILE__); ?>img/mv_txt_sp.png" alt="全国の商社ネットワークで効率的に在庫検索！ 業務用洗濯の中古機械 業界在庫数No.1 各メーカーの中古製品を豊富に取り扱っています" class="mv_img" />
 			</picture>
 		</section>
         <?php
