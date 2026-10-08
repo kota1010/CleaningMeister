@@ -431,7 +431,7 @@ body.single-machines .mform_sbmt .wpcf7-submit:hover {
   .mc_box {
     display: grid;
     align-items: start;
-    grid-template-columns: 292px 1fr 283px;
+    grid-template-columns: 292px minmax(0, 1fr) 275px;
     grid-template-rows: 40px -webkit-min-content 26px;
     grid-template-rows: 40px min-content 26px;
     grid-template-areas: "mc_box__left mc_box__sttl mc_box__sttl" "mc_box__left mc_box__body mdata_tbl" "mc_box__footer mc_box__footer mc_box__footer";
