@@ -162,6 +162,14 @@ add_action(
 				<img src="<?php echo plugin_dir_url(__FILE__); ?>img/mv_txt_sp.jpg" alt="全国の商社ネットワークで効率的に在庫検索！ 業務用洗濯の中古機械 業界在庫数No.1 各メーカーの中古製品を豊富に取り扱っています" class="mv_img" />
 			</picture>
 		</section>
+		<a href="<?php echo esc_url( home_url( '/' ) ); ?>/group-announcement/3021/" class="festa-banner">
+			<picture>
+				<source srcset="<?php echo plugin_dir_url(__FILE__); ?>img/cleanfesta26mainpc.webp" media="(min-width:640px)" type="image/webp" />
+				<source srcset="<?php echo plugin_dir_url(__FILE__); ?>img/cleanfesta26mainpc.png" media="(min-width:640px)" />
+				<source srcset="<?php echo plugin_dir_url(__FILE__); ?>img/cleanfesta26mainsp.webp" type="image/webp" />
+				<img src="<?php echo plugin_dir_url(__FILE__); ?>img/cleanfesta26mainsp.png" alt="クリーンフェスタ HYOGO 2026" />
+			</picture>
+		</a>
         <?php
 		}
     }

@@ -1050,6 +1050,10 @@ body > .c-drawer .c-drawer__menu .menu-item + .menu-item {
   margin-right: 8px;
 }
 
+body.home .festa-banner {
+  display: block;
+  margin-top: 25px;
+}
 body.home .l-contents .l-contents__main .c-section {
   padding-top: 0;
   padding-bottom: 0;

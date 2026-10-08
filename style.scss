@@ -1040,6 +1040,10 @@ body>.c-drawer {
 }
 // トップページ
 body.home {
+	.festa-banner {
+		display: block;
+		margin-top: 25px;
+	}
 	.l-contents {
 		.l-contents__main {
 			.c-section {
